@@ -22,7 +22,7 @@
     <Li>Code written for mobile platform cannot be tailored for another platform</Li>
     <Li>Enhancement and security updates cannot be simply loaded to the server</Li>
   </UL>
-   <h4>Progressive Web Applications</h4>
+   <h3>Progressive Web Applications</h3>
      <OL type="a">
        <Li>Advantages</Li>
     <UL type="circle">
