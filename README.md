@@ -6,7 +6,7 @@
   <OL type="1">
  <Li>Native App Development</Li>
  <OL type="a">
- <Li>type Advantages</Li>
+ <Li>Advantages</Li>
  </OL>
    <UL type="square">
  <Li>Enhanced user experience</Li>
