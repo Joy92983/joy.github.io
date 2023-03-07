@@ -22,7 +22,7 @@
     <Li>Code written for mobile platform cannot be tailored for another platform</Li>
     <Li>Enhancement and security updates cannot be simply loaded to the server</Li>
   </UL>
-   <Li>Progressive Web Applications</Li>
+   <h4>Progressive Web Applications</h4>
      <OL type="a">
        <Li>Advantages</Li>
     <UL type="circle">
@@ -39,7 +39,7 @@
          <Li>Still in the development phase</Li>
          <Li>Low perfomance</Li>
        </UL>
-       <Li>Cross Platform</Li>
+       <h5>Cross Platform</h5>
        <OL type="a">
          <Li>Advantages</Li>
          <UL type="disc">
