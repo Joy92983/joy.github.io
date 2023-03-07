@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>ASSIGNMENT</title>
+<h1>ASSIGNMENT</h1>
 </head>
 <Body>
-  <h1>Mobile Application Platforms</h1>
+  <h2>Mobile Application Platforms</h2>
   <OL type="1">
  <Li>Native App Development</Li>
  <OL type="a">
