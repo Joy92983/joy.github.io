@@ -16,8 +16,20 @@
  <Li>Advanced customization</Li>
    </UL>
      <Li>Disadvantages</Li>
-  <UL type="circle">
+  <UL type="square">
     <Li>Alot of effort in maintenance</Li>
     <Li>Code written for mobile platform cannot be tailored for another platform</Li>
     <Li>Enhancement and security updates cannot be simply loaded to the server</Li>
+  </UL>
+   <Li>Progressive Web Applications</Li>
+     <OL type="a">
+       <Li>Advantages</Li>
+    <UL type="circle">
+      <Li>Short loading time</Li>
+      <Li>Small size</Li>
+      <Li>Good perfomance in poor network conditions</Li>
+      <Li>Instant updates</Li>
+      <Li>They avoid app aggregators</Li>
+       </UL>  
+   
     
