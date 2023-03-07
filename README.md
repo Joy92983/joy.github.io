@@ -39,7 +39,7 @@
          <Li>Still in the development phase</Li>
          <Li>Low perfomance</Li>
        </UL>
-       <h5>Cross Platform</h5>
+       <h3>Cross Platform</h3>
        <OL type="a">
          <Li>Advantages</Li>
          <UL type="disc">
