@@ -5,7 +5,7 @@
 <Body>
   <h2>Mobile Application Platforms</h2>
   <OL type="1">
- <Li>Native App Development</Li>
+ <h3>Native App Development</h3>
  <OL type="a">
  <Li>Advantages</Li>
    <UL type="square">
