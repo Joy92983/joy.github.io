@@ -4,8 +4,8 @@
 </head>
 <Body>
   Mobile Application Platforms
+  <OL type="1">
  <Li>Native App Development</Li>
-    <OL type="1">
  <OL type="a">
  <Li>Advantages</Li>
    <UL type="square">
