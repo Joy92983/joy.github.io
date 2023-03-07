@@ -50,5 +50,15 @@
            <Li>Easier implementation</Li>
            <Li>Uniform Design</Li>
          </UL>
+         <Li>Disadvantages</Li>
+         <UL type="disc">
+           <Li>Lower perfomance and reliability</Li>
+           <Li>Limited user experience</Li>
+           <Li>Possible design mismatch on the two platforms</Li>
+           <Li>Possible difficulties with app market places</Li>
+         </UL>
+       </OL>
+       </Body>
+   </html>
    
     
