@@ -39,5 +39,16 @@
          <Li>Still in the development phase</Li>
          <Li>Low perfomance</Li>
        </UL>
+       <Li>Cross Platform</Li>
+       <OL type="a">
+         <Li>Advantages</Li>
+         <UL type="disc">
+           <Li>Allow businesses to develop apps faster</Li>
+           <Li>Saves on cost</Li>
+           <Li>You can use the same codebase on both platforms</Li>
+           <Li>Flexible and allows faster updates</Li>
+           <Li>Easier implementation</Li>
+           <Li>Uniform Design</Li>
+         </UL>
    
     
