@@ -3,11 +3,10 @@
 <title>Mobile Application Platforms</title>
 </head>
 <Body>
-Native App Development
   <OL type="1">
- <Li>Advantages</Li>
+ <Li>Native App Development</Li>
  <OL type="a">
- <Li>type Disadvantages</Li>
+ <Li>type Advantages</Li>
  </OL>
    <UL type="square">
  <Li>Enhanced user experience</Li>
