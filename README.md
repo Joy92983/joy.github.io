@@ -3,10 +3,9 @@
 <title>ASSIGNMENT</title>
 </head>
 <Body>
-  <OL type="1">
   Mobile Application Platforms
  <Li>Native App Development</Li>
-  </OL>
+    <OL type="1">
  <OL type="a">
  <Li>Advantages</Li>
    <UL type="square">
