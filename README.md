@@ -31,6 +31,13 @@
       <Li>Good perfomance in poor network conditions</Li>
       <Li>Instant updates</Li>
       <Li>They avoid app aggregators</Li>
-       </UL>  
+       </UL>
+       <Li>Disadvantages</Li>
+       <UL type="circle">
+         <Li>No access to app stores</Li>
+         <Li>Fewer functionalities</Li>
+         <Li>Still in the development phase</Li>
+         <Li>Low perfomance</Li>
+       </UL>
    
     
